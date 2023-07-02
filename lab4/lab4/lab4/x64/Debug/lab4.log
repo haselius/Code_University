@@ -1,0 +1,5 @@
+﻿  lab4.cpp
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab4\lab4\lab4\lab4.cpp(191,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab4\lab4\lab4\lab4.cpp(197,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab4\lab4\lab4\lab4.cpp(242,41): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  lab4.vcxproj -> C:\Users\haselius\Documents\Code_University\Numeric Metods\lab4\lab4\x64\Debug\lab4.exe

@@ -1,0 +1,5 @@
+﻿  lab4.2.cpp
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab4\lab4\lab4.2\lab4.2.cpp(152,13): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab4\lab4\lab4.2\lab4.2.cpp(205,14): warning C4244: инициализация: преобразование "unsigned __int64" в "double", возможна потеря данных
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab4\lab4\lab4.2\lab4.2.cpp(209,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  lab4.2.vcxproj -> C:\Users\haselius\Documents\Code_University\Numeric Metods\lab4\lab4\x64\Debug\lab4.2.exe
