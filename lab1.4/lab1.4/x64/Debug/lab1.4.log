@@ -1,0 +1,93 @@
+﻿  lab1.4.cpp
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab1.4\lab1.4\lab1.4.cpp(38,13): warning C4244: аргумент: преобразование "_Ty" в "const unsigned __int64", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab1.4\lab1.4\lab1.4.cpp(38,21): warning C4244: аргумент: преобразование "_Ty" в "const unsigned __int64", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab1.4\lab1.4\lab1.4.cpp(38,34): warning C4244: аргумент: преобразование "_Ty" в "const unsigned __int64", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab1.4\lab1.4\lab1.4.cpp(38,42): warning C4244: аргумент: преобразование "_Ty" в "const unsigned __int64", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab1.4\lab1.4\lab1.4.cpp(44,26): warning C4244: аргумент: преобразование "_Ty" в "const unsigned __int64", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab1.4\lab1.4\lab1.4.cpp(44,34): warning C4244: аргумент: преобразование "_Ty" в "const unsigned __int64", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab1.4\lab1.4\lab1.4.cpp(44,47): warning C4244: аргумент: преобразование "_Ty" в "const unsigned __int64", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab1.4\lab1.4\lab1.4.cpp(44,55): warning C4244: аргумент: преобразование "_Ty" в "const unsigned __int64", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab1.4\lab1.4\lab1.4.cpp(44,67): warning C4244: аргумент: преобразование "_Ty" в "const unsigned __int64", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab1.4\lab1.4\lab1.4.cpp(44,75): warning C4244: аргумент: преобразование "_Ty" в "const unsigned __int64", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab1.4\lab1.4\lab1.4.cpp(46,9): warning C4244: аргумент: преобразование "_Ty" в "const unsigned __int64", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab1.4\lab1.4\lab1.4.cpp(46,17): warning C4244: аргумент: преобразование "_Ty" в "const unsigned __int64", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab1.4\lab1.4\lab1.4.cpp(47,9): warning C4244: аргумент: преобразование "_Ty" в "const unsigned __int64", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab1.4\lab1.4\lab1.4.cpp(47,17): warning C4244: аргумент: преобразование "_Ty" в "const unsigned __int64", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab1.4\lab1.4\lab1.4.cpp(48,9): warning C4244: аргумент: преобразование "_Ty" в "const unsigned __int64", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab1.4\lab1.4\lab1.4.cpp(48,17): warning C4244: аргумент: преобразование "_Ty" в "const unsigned __int64", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab1.4\lab1.4\lab1.4.cpp(49,9): warning C4244: аргумент: преобразование "_Ty" в "const unsigned __int64", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab1.4\lab1.4\lab1.4.cpp(49,17): warning C4244: аргумент: преобразование "_Ty" в "const unsigned __int64", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+  lab1.4.vcxproj -> C:\Users\haselius\Documents\Code_University\Numeric Metods\lab1.4\x64\Debug\lab1.4.exe
+  Скопировано файлов: 0.
