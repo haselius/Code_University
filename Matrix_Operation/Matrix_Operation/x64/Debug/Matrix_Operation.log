@@ -1,0 +1,20 @@
+﻿  Matrix_Operation.cpp
+C:\Users\haselius\Documents\Code_University\Numeric Metods\Matrix_Operation\Matrix_Operation\Matrix_Operation.cpp(6,6): warning C4273: Multiply: несовместимое связывание dll
+C:\Users\haselius\Documents\Code_University\Numeric Metods\Matrix_Operation\Matrix_Operation\Matrix_Operation.h(13,38): message : см. предыдущее определение "Multiply"
+C:\Users\haselius\Documents\Code_University\Numeric Metods\Matrix_Operation\Matrix_Operation\Matrix_Operation.cpp(21,16): warning C4273: MatrixMultiply: несовместимое связывание dll
+C:\Users\haselius\Documents\Code_University\Numeric Metods\Matrix_Operation\Matrix_Operation\Matrix_Operation.h(16,50): message : см. предыдущее определение "MatrixMultiply"
+C:\Users\haselius\Documents\Code_University\Numeric Metods\Matrix_Operation\Matrix_Operation\Matrix_Operation.cpp(34,6): warning C4273: LU: несовместимое связывание dll
+C:\Users\haselius\Documents\Code_University\Numeric Metods\Matrix_Operation\Matrix_Operation\Matrix_Operation.h(18,38): message : см. предыдущее определение "LU"
+C:\Users\haselius\Documents\Code_University\Numeric Metods\Matrix_Operation\Matrix_Operation\Matrix_Operation.cpp(65,6): warning C4273: Out: несовместимое связывание dll
+C:\Users\haselius\Documents\Code_University\Numeric Metods\Matrix_Operation\Matrix_Operation\Matrix_Operation.h(21,38): message : см. предыдущее определение "Out"
+C:\Users\haselius\Documents\Code_University\Numeric Metods\Matrix_Operation\Matrix_Operation\Matrix_Operation.cpp(106,6): warning C4273: OutS: несовместимое связывание dll
+C:\Users\haselius\Documents\Code_University\Numeric Metods\Matrix_Operation\Matrix_Operation\Matrix_Operation.h(23,38): message : см. предыдущее определение "OutS"
+C:\Users\haselius\Documents\Code_University\Numeric Metods\Matrix_Operation\Matrix_Operation\Matrix_Operation.cpp(115,6): warning C4273: Inverse: несовместимое связывание dll
+C:\Users\haselius\Documents\Code_University\Numeric Metods\Matrix_Operation\Matrix_Operation\Matrix_Operation.h(25,38): message : см. предыдущее определение "Inverse"
+C:\Users\haselius\Documents\Code_University\Numeric Metods\Matrix_Operation\Matrix_Operation\Matrix_Operation.cpp(137,8): warning C4273: Norm: несовместимое связывание dll
+C:\Users\haselius\Documents\Code_University\Numeric Metods\Matrix_Operation\Matrix_Operation\Matrix_Operation.h(27,40): message : см. предыдущее определение "Norm"
+C:\Users\haselius\Documents\Code_University\Numeric Metods\Matrix_Operation\Matrix_Operation\Matrix_Operation.cpp(147,8): warning C4273: MatrixNorm: несовместимое связывание dll
+C:\Users\haselius\Documents\Code_University\Numeric Metods\Matrix_Operation\Matrix_Operation\Matrix_Operation.h(29,40): message : см. предыдущее определение "MatrixNorm"
+C:\Users\haselius\Documents\Code_University\Numeric Metods\Matrix_Operation\Matrix_Operation\Matrix_Operation.cpp(160,24): warning C4273: Transpose: несовместимое связывание dll
+C:\Users\haselius\Documents\Code_University\Numeric Metods\Matrix_Operation\Matrix_Operation\Matrix_Operation.h(31,58): message : см. предыдущее определение "Transpose"
+  Matrix_Operation.vcxproj -> C:\Users\haselius\Documents\Code_University\Numeric Metods\Matrix_Operation\x64\Debug\Matrix_Operation.dll

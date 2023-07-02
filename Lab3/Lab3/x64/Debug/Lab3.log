@@ -1,0 +1,6 @@
+﻿  Lab3.cpp
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab 3\Lab3\Lab3\Lab3.cpp(96,5): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab 3\Lab3\Lab3\Lab3.cpp(97,94): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\haselius\Documents\Code_University\Numeric Metods\lab 3\Lab3\Lab3\Lab3.cpp(41): warning C4715: li: значение возвращается не при всех путях выполнения
+  Lab3.vcxproj -> C:\Users\haselius\Documents\Code_University\Numeric Metods\lab 3\Lab3\x64\Debug\Lab3.exe
+  Скопировано файлов: 0.
